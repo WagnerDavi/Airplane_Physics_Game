@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T21:58:49.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="W8lL6P8u_W04hdXGe9r6" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-13T01:12:12.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="S9-IHRM2PjAUh28-fr8V" version="13.6.9" type="github">
   <diagram id="snA5wIH1FXUt3bnCRdw-" name="Page-1">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="H8tqieu_wZ1byqVmmLSu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="H8tqieu_wZ1byqVmmLSu-7" target="H8tqieu_wZ1byqVmmLSu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H8tqieu_wZ1byqVmmLSu-7" value="Airplane Engine&lt;br&gt;RPM&lt;br&gt;Horsepower" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="H8tqieu_wZ1byqVmmLSu-7" value="Airplane Engine&lt;br&gt;RPM&lt;br&gt;Horsepower" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="340" y="390" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H8tqieu_wZ1byqVmmLSu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="H8tqieu_wZ1byqVmmLSu-10" target="H8tqieu_wZ1byqVmmLSu-1" edge="1">
@@ -100,6 +100,12 @@
         </mxCell>
         <mxCell id="H8tqieu_wZ1byqVmmLSu-28" value="Airspeed Indicator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1230" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oIBcQUh4CXwXqT3S_NH_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oIBcQUh4CXwXqT3S_NH_-1" target="H8tqieu_wZ1byqVmmLSu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oIBcQUh4CXwXqT3S_NH_-1" value="Airplane Propeller&lt;br&gt;Spinning the propeller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="530" width="126" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
